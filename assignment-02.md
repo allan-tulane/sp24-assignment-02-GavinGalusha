@@ -71,7 +71,7 @@ so
 n^(1/2)^i = 2
 log_2(n) = 2^i
 log_2(log_2(n)) = log_2(2^i)
-O(log log n)
+= O(log log n)
 
 
 
