@@ -15,7 +15,7 @@ and push to your github repository.
 
 .  Leaf dominated
 .  total number of nodes at leaf level = 2^(log_3(n)) nodes
-.  equal to n^log_3(2)
+.  equal to n^log_3(2) = 
 .  O(log_3(n))
 
 
@@ -23,7 +23,7 @@ and push to your github repository.
 
 . leaf dominated 
 .  total number of nodes at leaf level = 5^log_4(n)
-.  equal to n^log_4(5)
+.  equal to n^log_4(5) = 
 
 .   O(n^log_4(5))
 
